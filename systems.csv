@@ -1,0 +1,10 @@
+system_id,system_name,criticality
+1,Web Server,9
+2,Database,10
+3,Payment API,10
+4,VPN,8
+5,Email Gateway,7
+6,File Server,6
+7,HR Portal,5
+8,Wi-Fi,3
+9,Backup NAS,6
